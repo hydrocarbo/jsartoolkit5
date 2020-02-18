@@ -56,8 +56,8 @@ function isMobile() {
 
 var markers = {
     "pinball": {
-        width: 596,
-        height: 596,
+        width: 597,
+        height: 597,
         dpi: 96,
         url: "./examples/DataNFT/pinball",
     },
